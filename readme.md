@@ -1,5 +1,5 @@
 ### ⚡ Nano
-#### Extremely minimal ES2015+ boilerplate.
+#### Very small ES2015+ boilerplate.
 
 A tiny, configuration-free javascript setup that can be used for quick sketches or to build on top of.
 
