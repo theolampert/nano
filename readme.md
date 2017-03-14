@@ -1,6 +1,8 @@
 ### ⚡ Nano
 #### Very small ES2015+ boilerplate.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/theolampert/nano.svg)](https://greenkeeper.io/)
+
 A tiny, configuration-free javascript setup that can be used for quick sketches or to build on top of.
 
 Goals:
