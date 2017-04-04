@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/theolampert/nano.svg?branch=master)](https://travis-ci.org/theolampert/nano)
+
 ### ⚡ Nano
 #### Very small ES2015+ boilerplate.
 
